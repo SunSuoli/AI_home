@@ -1,2 +1,2 @@
 # AI_home
-EEF
+操作状态：EEEEFFF
